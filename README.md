@@ -1,4 +1,4 @@
-<h1><p align="center">Tennis-Training-Schedule</p></h1>
+<h1><p align="center">Tennis-Training-Organizer</p></h1>
 
 ## Introduction
 <p align="justify">
