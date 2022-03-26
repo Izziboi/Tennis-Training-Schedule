@@ -74,5 +74,6 @@ In this case, the trainee is owing 160 Euros.
 
 ## Summary
 <p align="justify">
-This presents a platform for taking the attendance and recording the training sessions of trainees. The beauty of this platform is that it promotes transparency and reduces paper work. Furthermore, the final record of the trainee can be printed out for them as a hard copy if necessary. Meanwhile, any contribution to better the functionality of this platform is highly welcome. However, the platform is protected to avoid unauthorized or mistaken editing of its content. Any wish to improve it should be made known to me for assistance to unlock the platform.
+This presents a platform for taking the attendance and recording the training sessions of trainees. The beauty of this platform is that it promotes transparency and reduces paper work. Furthermore, the final record of the trainee can be printed out for them as a hard copy if necessary. Meanwhile, any contribution to better the functionality of this platform is highly welcome. However, the platform is protected to avoid unauthorized or mistaken editing of its content. Any wish to improve it should be made known to me for assistance to unlock the platform. For a blog post version of this work and other of my works, please visit https://medium.com/@israeletu/tennis-training-organizer-adba41a6a925
 </p>
+
