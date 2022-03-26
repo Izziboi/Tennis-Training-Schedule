@@ -42,5 +42,32 @@ At the end of the table, there is no summary. Only the total amount deposited is
   
 ![image](https://user-images.githubusercontent.com/44449730/159985067-d3e31fae-b2d3-4feb-a0bd-826daf6665f7.png)
 
-- **Recurrent:** This is where the beauty of the platform is appreciated.
+- **Recurrent:** This is where the beauty of the platform is appreciated. Here a trainee registers, pays deposit and begins to attend the training according to schedule. As they train, their deposit counts down until it is exhausted. At the end of the training term, the summary is checked to see the balance of the trainee's deposit. Below is how it goes.
+  
+![image](https://user-images.githubusercontent.com/44449730/160234180-78ef6144-3a2b-4f54-af6b-6c5a6150f6e8.png)
+
+The user enters the following information:<br>
+- Length of Training (weeks)<br>
+- No. of Trainings Per Week<br>
+- No. of Trainings During Weekdays
+- Days of the Week for Training: Here, all the days should be entered in the row, column-by-column in the form, MONDAY/M (meaning Monday morning), TUESDAY/E (meaning Tuesday evening), WEDNESDAY/ME (Wednesday morning and evening). Morning trainigs last for 4 hours while evening trainings last for 5 hours.<br>
+- Saturday Training: The user can enter YES or NO, depending on whether the trainee is interested in Saturday training or not. Saturday trainings last for 5 hours.<br>
+- Fee Per Hour
+  
+The following are generated automatically by the system:<br>
+- Total No. of Trainings<br>
+- Weeks Trained<br>
+- Remaining Trainings<br>
+- Training Hours Per Week<br>
+- Total Fee
+  
+Furthermore, the user enters the trainee's deposit, deposit date, attendance dates and attendance. The balance of the trainee's fee is generated automatically by the system. The attendace takes either p (for present) or a (for absent). Please see below.
+  
+![image](https://user-images.githubusercontent.com/44449730/160235240-55322899-29c0-4094-bfd9-d3c81453f75b.png)
+
+The summary can be seen below.
+  
+![image](https://user-images.githubusercontent.com/44449730/160235340-2d57e729-6027-4e10-8315-db209ef89682.png)
+
+In this case, the trainee is owing 160 Euros.
 </p>
