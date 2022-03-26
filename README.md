@@ -65,7 +65,7 @@ Furthermore, the user enters the trainee's deposit, deposit date, attendance dat
   
 ![image](https://user-images.githubusercontent.com/44449730/160235240-55322899-29c0-4094-bfd9-d3c81453f75b.png)
 
-The summary can be seen below.
+The summary is automatically generated and can be seen below.
   
 ![image](https://user-images.githubusercontent.com/44449730/160235340-2d57e729-6027-4e10-8315-db209ef89682.png)
 
